@@ -63,10 +63,3 @@ The immediate action should be to investigate the DNS server at `203.0.113.2` di
 By addressing the root cause of the DNS port 53 unreachability, access to `www.yummyrecipesforme.com` should be restored.
 
 ---
-
-**How to upload this to GitHub:**
-
-1.  **Create a new file:** Navigate to your GitHub repository, click on the "Add file" dropdown, then select "Create new file."
-2.  **Name the file:** Give it a meaningful name, e.g., `Cybersecurity_Incident_Report_DNS.md`.
-3.  **Paste the content:** Copy and paste the entire Markdown content provided above into the file editor.
-4.  **Commit the new file:** Scroll to the bottom, add a concise commit message (e.g., "Add DNS incident report"), and click "Commit new file."
