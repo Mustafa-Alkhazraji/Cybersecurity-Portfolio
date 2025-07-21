@@ -106,10 +106,3 @@ To prevent future brute force attacks and enhance the overall security posture (
 By implementing these comprehensive hardening measures, `yummyrecipesforme.com` can significantly reduce its vulnerability to brute force attacks and enhance its overall resilience against similar cyber threats.
 
 ---
-
-**How to upload this to GitHub:**
-
-1.  **Create a new file:** Navigate to your GitHub repository. Click on the "Add file" dropdown, then select "Create new file."
-2.  **Name the file:** Give it a meaningful name, e.g., `Cybersecurity_Incident_Report_OS_Hardening.md`.
-3.  **Paste the content:** Copy and paste the entire Markdown content provided above into the file editor.
-4.  **Commit the new file:** Scroll to the bottom, add a concise commit message (e.g., "Add OS Hardening incident report"), and click "Commit new file."
