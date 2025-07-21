@@ -2,7 +2,7 @@
 
 **Date:** July 21, 2025
 **Prepared For:** Social Media Organization Management
-**Prepared By:** Security Analyst Team
+**Prepared By:** Mustafa Al-khazraji
 
 ---
 
