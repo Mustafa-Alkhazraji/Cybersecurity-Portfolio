@@ -1,2 +1,6 @@
-# Cybersecurity-Portfolio
-𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐:  Developed a rigorous cybersecurity project portfolio on mock clients covering NIST, audits, Linux, SQL, assets, threats, vulnerabilities, detection, incident response, escalation, Wireshark, tcpdump, IDS, SIEM, and Python automation.
+## 👋 Hello, I'm Mustafa
+I'm a Cloud Security & DevSecOps enthusiast on a mission to secure modern cloud environments.  
+🎯 My goal: Become a world-class Cloud Security Engineer in Canada.
+
+🛠️ Currently learning: AWS Security, Terraform, Docker, CI/CD pipelines  
+📜 Certifications: AWS Cloud Practitioner (in progress), Security+ (in progress)
