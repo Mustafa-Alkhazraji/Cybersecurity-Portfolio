@@ -110,12 +110,3 @@ This plan integrates analysis of the recent incident with strategic improvements
     * Once the ICMP flood has subsided and the network shows stable performance, systematically bring non-critical network systems and services back online.
 
 ---
-
-**Here’s how to put this report on GitHub:**
-
-1.  **Copy the entire text** within the gray Markdown code block above.
-2.  **Go to your GitHub repository** in your web browser.
-3.  Click on the "**Add file**" dropdown menu, then select "**Create new file**."
-4.  **Name your file** in the text box. A good name would be `NIST_CSF_DDoS_Plan.md`. (Make sure to include the `.md` extension!)
-5.  **Paste the copied content** into the main editing area.
-6.  **Commit the new file** by scrolling down, adding a short, clear commit message (e.g., "Add NIST CSF plan for DDoS incident response"), and clicking the "Commit new file" button.
