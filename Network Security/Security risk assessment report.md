@@ -67,11 +67,4 @@ The implementation of Multi-Factor Authentication, strong password policies with
 
 ---
 
-**To make this report appear perfectly on GitHub:**
 
-1.  **Copy all the text within the Markdown code block above.** Start from `# Security Risk Assessment Report: Network Hardening` and go all the way to the end of the `---` before the final instructions.
-2.  **Go to your GitHub repository.**
-3.  Click on the "Add file" dropdown menu, then select "Create new file."
-4.  **Name the file:** A good name would be `Security_Risk_Assessment_Network_Hardening.md`. The `.md` extension is crucial for GitHub to recognize it as a Markdown file.
-5.  **Paste the copied content** into the file editor on GitHub.
-6.  **Commit the new file:** Scroll down, add a clear commit message (e.g., "Add Network Hardening Risk Assessment Report"), and click "Commit new file."
