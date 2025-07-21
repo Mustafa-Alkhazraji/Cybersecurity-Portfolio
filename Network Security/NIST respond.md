@@ -2,7 +2,7 @@
 
 **Date:** July 11, 2025
 **Prepared For:** Multimedia Company Management
-**Prepared By:** Cybersecurity Analyst Team
+**Prepared By:** Mustafa Al-khazraji
 
 ---
 
