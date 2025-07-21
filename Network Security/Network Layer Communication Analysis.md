@@ -9,6 +9,7 @@
 ### Incident Overview
 
 Customers reported an inability to access `www.yummyrecipesforme.com`, encountering the error message "destination port unreachable" after page load attempts. Initial investigation by the cybersecurity analyst confirmed the error. Network analysis using `tcpdump` revealed that UDP DNS queries (to port 53) were met with ICMP "Destination Port Unreachable" messages. This indicates a critical issue with DNS resolution, preventing users from obtaining the website's IP address.
+<img width="891" height="453" alt="302099179-7e41f4c7-d22c-4c64-8fb9-b73c85397403" src="https://github.com/user-attachments/assets/0061b3ed-8a8a-4e8d-9bfc-0af96d7bd940" />
 
 ---
 
